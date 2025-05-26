@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 07072441432 on WhatsApp
+- 📫 How to reach me tijaniabdulmalik516@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also a fan of football
 
