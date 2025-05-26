@@ -1,0 +1,22 @@
+import random
+
+
+prompt = input("Do you want to roll the dice? (Yes/No): ").lower()
+choices = ["yes", "no"]
+
+
+while prompt not in choices:
+  print("Invalid choice!!")
+  prompt = input("Do you want to roll the dice? (Yes/No): ")
+
+if prompt == "yes":
+  print("Thank you for choosing to play my game")
+  first_value = random.randint(1,6)
+  second_value = random.randint(1,6)  
+  print(f"You rolled ({first_value}, {second_value})") 
+
+elif prompt == "no":
+  print("Okay, but we hope to see you soon")
+
+else:
+  print("Please input a valid choice")
