@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tijaniabdulmalik
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently diving into the world of AI and Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tijaniabdulmalik516@gmail.com
 - 😄 Pronouns: He/Him
